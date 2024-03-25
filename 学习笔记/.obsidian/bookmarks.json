@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1711255621261,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1711251542100,
+          "path": "Java学习/JavaSE.md",
+          "title": "Java语法基础"
+        }
+      ],
+      "title": "To Be Processed"
+    },
+    {
+      "type": "group",
+      "ctime": 1711255678800,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1711255707277,
+          "path": "Java学习/Java-Learning-Path.md"
+        },
+        {
+          "type": "graph",
+          "ctime": 1711255724532,
+          "title": "Java-Graph",
+          "options": {
+            "collapse-filter": false,
+            "search": "",
+            "showTags": false,
+            "showAttachments": false,
+            "hideUnresolved": false,
+            "showOrphans": true,
+            "collapse-color-groups": false,
+            "colorGroups": [
+              {
+                "query": "",
+                "color": {
+                  "a": 1,
+                  "rgb": 14048348
+                }
+              }
+            ],
+            "collapse-display": true,
+            "showArrow": false,
+            "textFadeMultiplier": 0,
+            "nodeSizeMultiplier": 1,
+            "lineSizeMultiplier": 1,
+            "collapse-forces": true,
+            "centerStrength": 0.518713248970312,
+            "repelStrength": 10,
+            "linkStrength": 1,
+            "linkDistance": 250,
+            "scale": 1,
+            "close": true
+          }
+        }
+      ],
+      "title": "Java"
+    }
+  ]
+}

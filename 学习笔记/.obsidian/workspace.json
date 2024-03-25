@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "08ed15d266f46760",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4d26c83b0de0b11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "433f518072a62c20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java学习/JavaSE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21c06703904a36eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce911d9aa5e3a70a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c76a604e061bda0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ade4807090ef0e56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Programing",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "339c575a81ecb0f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f29bf2954165b61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java学习/JavaSE.md"
+              }
+            }
+          },
+          {
+            "id": "cf204258080076f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7a271f418e6ab4cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "45f98c1ecd6159c4",
+        "type": "tabs",
+        "dimension": 51.9607843137255,
+        "children": [
+          {
+            "id": "db97b11484e1c645",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java学习/JavaSE.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45e628ac47e8b249",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java学习/JavaSE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa10a02874c1776a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa1d894109f13987",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "c314d63dd19428a3",
+        "type": "tabs",
+        "dimension": 48.03921568627451,
+        "children": [
+          {
+            "id": "7dd250ff5c2754c9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 392
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "433f518072a62c20",
+  "lastOpenFiles": [
+    "Java学习/Java-Learning-Path.md",
+    "Java学习/JavaSE.md",
+    "Java学习/JavaEE.md",
+    "Excalidraw/JavaSEDrawing.md",
+    "Excalidraw/Drawing 2024-03-25 11.19.05.excalidraw.md",
+    "2024-03-25.md",
+    "Excalidraw/Drawing 2024-03-24 21.01.15.excalidraw.md",
+    "Java学习/Data Structures and Algorithms.md",
+    "Excalidraw/Drawing 2024-03-24 21.01.13.excalidraw.md",
+    "Untitled.md",
+    "switch.md",
+    "Excalidraw/Drawing 2024-03-24 20.42.38.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-24 20.40.55.excalidraw.md",
+    "list.md",
+    "Excalidraw/Drawing 2024-03-24 20.13.37.excalidraw.md",
+    "MindMap/Untitled.canvas",
+    "Untitled.canvas",
+    "Pasted image 20240324201006.png",
+    "Java学习/SSM(Spring+SpringMVC+MyBatis).md",
+    "image/Pasted image 20240324182911.png",
+    "Pasted image 20240324200825.png",
+    "MindMap",
+    "Excalidraw/Drawing 2024-03-24 18.44.18.excalidraw.md",
+    "Excalidraw",
+    "image/Pasted image 20240324183247.png",
+    "image/Pasted image 20240324183232.png",
+    "image/Pasted image 20240324183128.png",
+    "image/Pasted image 20240324183108.png",
+    "image/Pasted image 20240324182836.png",
+    "image/Pasted image 20240324182720.png",
+    "image/Pasted image 20240324161546.png",
+    "image",
+    "新建文件夹",
+    "Java学习/Database.md",
+    "Untitled/Untitled.canvas",
+    "Java学习",
+    "Java学习/JavaWeb.md",
+    "Java学习/SpringCloud.md",
+    "Java学习/Linux.md",
+    "Java学习/JVM.md",
+    "Java学习/SpringBoot.md",
+    "2024-03-23.md",
+    "打开笔记本.onetoc2"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "accentColor": "#5c96f5",
+  "cssTheme": "AnuPpuccin",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "my_snippets",
+    "extended-colorschemes",
+    "custom-rainbow-colors",
+    "控制行间距"
+  ],
+  "showViewHeader": true
+}
